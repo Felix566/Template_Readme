@@ -1,6 +1,4 @@
-<h1 align="center">
-     :computer: <a href="#" alt="site do projeto"> NomeProjeto </a>
-</h1>
+# NomeProjeto :computer:
 
 <h3 align="center">
    Breve comentário sobre o projeto.
