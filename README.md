@@ -1,5 +1,6 @@
-
-# Nome do Projeto :computer:
+<h1 align="center">
+	# Nome do Projeto :computer:
+</h1>
 
 <h3 align="center">
    Breve comentário sobre o projeto.
