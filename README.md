@@ -166,4 +166,4 @@ Listar as tecnologias utilizadas no desenvolvimento:
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 ---
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#nome-do-projeto-computer)<br>
