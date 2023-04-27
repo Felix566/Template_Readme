@@ -26,7 +26,7 @@
 </h4>
 
 
-- [Sobre](#Sobre)
+- [Sobre](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Layout](#layout)
 - [Como executar](#como-executar)
@@ -35,16 +35,6 @@
 - [Autor](#autor)
 - [licença](#licença)
 
-<p align="center">
- <a href="#sobre-o-projeto">Sobre</a> •
- <a href="#funcionalidades">Funcionalidades</a> •
- <a href="#layout">Layout</a> • 
- <a href="#como-executar-o-projeto">Como executar</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuidores">Contribuidores</a> • 
- <a href="#autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
-</p>
 
 ## :computer: [Sobre o projeto](#sobre-o-projeto)
 Descrição do que se trata o projeto.
