@@ -26,17 +26,17 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
- <a href="#-autor">Autor</a> • 
+ <a href="#sobre-o-projeto">Sobre</a> •
+ <a href="#funcionalidades">Funcionalidades</a> •
+ <a href="#layout">Layout</a> • 
+ <a href="#como-executar-o-projeto">Como executar</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuidores">Contribuidores</a> • 
+ <a href="#autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
 
-### :computer: [Sobre o projeto](#-sobre-o-projeto)
+### :computer: [Sobre o projeto](#sobre-o-projeto)
 Descrição do que se trata o projeto.
 ---
 
@@ -131,7 +131,7 @@ $ npm run start
 ```
 ---
 
-## :hammer_and_pick: Tecnologias
+### :hammer_and_pick: [Tecnologias](#tecnologias)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
