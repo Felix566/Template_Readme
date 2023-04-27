@@ -36,7 +36,7 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
-## :computer: Sobre o projeto
+### :computer: [Sobre o projeto](#-sobre-o-projeto)
 Descrição do que se trata o projeto.
 ---
 
