@@ -25,6 +25,16 @@
 	:construction: Status do projeto :construction:
 </h4>
 
+
+- [Sobre](#Sobre)
+- [Funcionalidades](#funcionalidades)
+- [Layout](#layout)
+- [Como executar](#como-executar)
+- [Tecnologias](#tecnologias)
+- [Contribuidores](#contribuidores)
+- [Autor](#autor)
+- [licença](#licença)
+
 <p align="center">
  <a href="#sobre-o-projeto">Sobre</a> •
  <a href="#funcionalidades">Funcionalidades</a> •
@@ -36,7 +46,7 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
-### :computer: [Sobre o projeto](#sobre-o-projeto)
+## :computer: [Sobre o projeto](#sobre-o-projeto)
 Descrição do que se trata o projeto.
 ---
 
@@ -92,7 +102,7 @@ Este projeto é divido em três partes:
 
 :bulb:Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
-### Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -131,7 +141,7 @@ $ npm run start
 ```
 ---
 
-### :hammer_and_pick: [Tecnologias](#tecnologias)
+## :hammer_and_pick: [Tecnologias](#tecnologias)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
