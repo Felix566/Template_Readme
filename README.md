@@ -19,7 +19,7 @@
    <a href="https://github.com/Felix566/Template_Readme/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/Felix566/Template_Readme?style=social">
   </a>
-	<img src="https://komarev.com/ghpvc/?username=Felix566" alt="https://github.com/Felix566" />
+  <img src="https://komarev.com/ghpvc/?username=Felix566" alt="https://github.com/Felix566" />
 </p>
 
 <h4 align="center">
@@ -31,6 +31,7 @@ Contador de Visitantes 👉 ![Visitor Count](https://profile-counter.glitch.me/T
 
 
 
+<h3>Índice</h3>
 
 - [Sobre](#computer-sobre-o-projeto)
 - [Funcionalidades](#gear-funcionalidades)
@@ -40,6 +41,7 @@ Contador de Visitantes 👉 ![Visitor Count](https://profile-counter.glitch.me/T
 - [Contribuidores](#contribuidores)
 - [Autor](#autor)
 - [licença](#licença)
+---
 
 
 ## :computer: Sobre o projeto
@@ -82,6 +84,8 @@ adicionar telas da versão web:
   <img alt="" title="" src="./assets/sucesso-web.svg" width="400px">
 </p>
 
+---
+
 
 ## :rocket: Como executar o projeto
 Este projeto é divido em três partes:
@@ -90,6 +94,8 @@ Este projeto é divido em três partes:
 3. Mobile (pasta mobile)
 
 :bulb:Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+
+---
 
 ## Pré-requisitos
 
@@ -156,6 +162,8 @@ Listar as tecnologias utilizadas no desenvolvimento:
 -   **[React Navigation](https://reactnavigation.org/)**
 
 > Veja o arquivo  [package.json](https://github.com/Felix566/Template_Readme/blob/master/mobile/package.json)
+
+---
 
 ## :muscle: Como contribuir no projeto
 
