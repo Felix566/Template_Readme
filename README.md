@@ -1,5 +1,5 @@
 <h1 align="center">
-	# Nome do Projeto :computer:
+	:computer: Nome do Projeto
 </h1>
 
 <h3 align="center">
@@ -19,6 +19,7 @@
    <a href="https://github.com/Felix566/Template_Readme/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/Felix566/Template_Readme?style=social">
   </a>
+	<img src="https://komarev.com/ghpvc/?username=Felix566" alt="https://github.com/Felix566" />
 </p>
 
 <h4 align="center">
@@ -26,17 +27,22 @@
 </h4>
 
 
-- [Sobre](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Layout](#layout)
-- [Como executar](#como-executar)
-- [Tecnologias](#tecnologias)
+Contador de Visitantes 👉 ![Visitor Count](https://profile-counter.glitch.me/Template_Readme/count.svg)
+
+
+
+
+- [Sobre](#computer-sobre-o-projeto)
+- [Funcionalidades](#gear-funcionalidades)
+- [Layout](#art-layout)
+- [Como executar](#rocket-como-executar-o-projeto)
+- [Tecnologias](#hammer_and_pick-tecnologias)
 - [Contribuidores](#contribuidores)
 - [Autor](#autor)
 - [licença](#licença)
 
 
-## :computer: [Sobre o projeto](#sobre-o-projeto)
+## :computer: Sobre o projeto
 Descrição do que se trata o projeto.
 ---
 
@@ -45,13 +51,6 @@ Descrever as funcionalidades oferecidas pelo projeto.
 - [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
   - [x] nome da entidade, email e whatsapp
   - [x] e o endereço para que ele possa aparecer no mapa
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
-
 - [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
   - [x] navegar pelo mapa para ver as instituições cadastradas
   - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
@@ -131,7 +130,7 @@ $ npm run start
 ```
 ---
 
-## :hammer_and_pick: [Tecnologias](#tecnologias)
+## :hammer_and_pick: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -167,4 +166,4 @@ Listar as tecnologias utilizadas no desenvolvimento:
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 ---
-[⬆ Voltar ao topo](#nome-do-projeto-computer)<br>
+[⬆ Voltar ao topo](#computer-nome-do-projeto)<br>
